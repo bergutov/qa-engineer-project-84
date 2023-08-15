@@ -1,0 +1,15 @@
+---
+name: Albert Bergutov
+job: QA Engineer
+level: junior
+email: bergutov@yandex.ru
+description: |
+  Инженер по тестированию программного обеспечения.
+
+  Есть диплом техника-программиста и пройденные курсы HEXLET.
+skills:
+  - функциональное тестирование
+  - написание багрепортов
+  - Linux
+  - слепая печать
+  - английский язык C1
